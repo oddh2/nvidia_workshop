@@ -42,15 +42,15 @@
 
 15:25 - 15:55 Exercise #3 -- 30 Minutes
 
+**15:55 – 16:10 Break**
+
 ## Lecture/Exercise #4
 
-15:55 - 16:10 Lecture #4 -- 15 Minutes `@TBA`
+16:10 - 16:25 Lecture #4 -- 15 Minutes `@TBA`
 
-16:10 - 16:45 Exercises #4a + 4b -- 35 Minutes
+16:25 - 17:00 Exercises #4a + 4b -- 35 Minutes
 
-16:45 – 16:50 Q&A -- 5 Minutes
-
-**16:50 – 17:05 Break**
+17:00 – 17:05 Q&A -- 5 Minutes
 
 ## Lecture/Exercise #5
 
