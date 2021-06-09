@@ -1,4 +1,4 @@
-* 09:00 - 9:30  Welcome and introduction
+* 09:00 - 09:30  Welcome and introduction
 * 09:30 – 10:10 Lecture #1: An introduction to deep learning & Introduction to Python
 * 10:10 - 10:20 Break
 * 10:20 – 11:30 Exercise #1: An introduction to deep learning & Introduction to Python
