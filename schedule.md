@@ -2,70 +2,55 @@
 
 ## Welcome
 
-09:30 - 09:35 Get everyone connected -- 5 Minutes `@JK`
+09:00 - 09:05 Get everyone connected -- 5 Minutes `@JK`
 
-09:35 - 09:45 Welcoming by Prof. Falk Schwendicke -- 10 Minutes `@FS`
+09:05 - 09:15 Welcoming by Prof. Falk Schwendicke -- 10 Minutes `@FS`
 
 ## Introduction and Lecture/Exercise 0
 
-09:45 - 09:50 [(simplified) Schedule](./schedule_simplified.md) and [WebEx walktrough](./webex_walkthrough.md) -- 5 Minutes `@JK`
+09:15 - 09:20 [(simplified) Schedule](./schedule_simplified.md) and [WebEx walktrough](./webex_walkthrough.md) -- 5 Minutes `@JK`
 
-09:50 - 10:20 present yourself 3 minutes per breakout room -- 10 & 20 Minutes `@JK`
+09:20 - 09:30 present yourself 3 minutes per breakout room -- 10 & 20 Minutes `@JK`
 
 ## Technical setup and Lecture/Exercise #1
 
-10:20 - 11:05 Lecture #1 -- 45 Minutes `@JK`
+09:30 - 10:00 Lecture #1 -- 30 Minutes `@Lisa`
 
-11:05 - 11:10 Launching DLI -- 5 Minutes `@JK`
+10:00 - 10:10 Launching DLI and introduction to DLI platform  -- 10 Minutes `@Lisa`
 
-**11:10 – 11:25 Break**
+**10:10 – 10:20 Break**
 
-11:25 – 11:30 Introduction to DLI platform -- 5 Minutes `@JK`
+10:20 – 10:35 Introduction to Jupyter Lab and Python -- 15 Minutes `@Lisa`
 
-11:30 – 12:00 Introduction to Jupyter Lab and Python -- 20 Minutes `@JK`/ _if late someone else please, as I have to get to another meeting at 12:00_
+10:35 – 11:30 Exercise #1 -- 55 Minutes 
 
-12:00 – 12:40 Exercise #1 -- 40 Minutes 
+## Lecture #2
 
-**12:40 – 13:30 Lunch break**
+11:30 – 12:00 Lecture #2 -- 30 Minutes `@Csaba`
 
-## Lecture/Exercise #2
+**12:00 – 13:00 Lunch break**
 
-13:30 – 14:15 Lecture #2 -- 45 Minutes `@JC`
+## Exercise #2
 
-14:15 – 14:50 Exercise #2 -- 35 Minutes
-
-14:50 – 14:55 Q&A -- 5 Minutes
+13:00 – 13:40 Exercise #2 -- 40 Minutes
 
 ## Lecture/Exercise #3
 
-14:55 - 15:25 Lecture #3 -- 30 Minutes `@TBA`
+13:40 - 14:00 Lecture #3 -- 20 Minutes `@Jose`
 
-15:25 - 15:55 Exercise #3 -- 30 Minutes
+14:00 - 14:40 Exercise #3 -- 40 Minutes
 
-**15:55 – 16:10 Break**
+**14:40 – 14:50 Break**
 
 ## Lecture/Exercise #4
 
-16:10 - 16:25 Lecture #4 -- 15 Minutes `@TBA`
+14:50 - 15:05 Lecture #4 -- 15 Minutes `@Aleks`
 
-16:25 - 17:00 Exercises #4a + 4b -- 45 Minutes
-
-17:00 – 17:05 Q&A -- 5 Minutes
+15:05 - 15:50 Exercises #4a + 4b -- 45 Minutes
 
 ## Lecture/Exercise #5
 
-17:05 - 17:15 Lecture #5 -- 10 Minutes `@TBA`
+15:50 - 16:05 Lecture #5 -- 15 Minutes `@Jose`
 
-17:15 - 17:40 Exercises #5a + 5b -- 45 Minutes
+16:05 - 17:00 Exercises #5a + 5b -- 55 Minutes
 
-17:40 - 17:45 Q&A -- 5 Minutes
-
-## (optional) Lecture/Exercise #6
-
-Lecture #6 -- 20 Minutes
-
-Exercise #6 -- 20 Minutes
-
-## (optional) Assessment
-
-Assessment  -- 30 Minutes
